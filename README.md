@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Let's Connect :coffee: </h3>
+<p align="center"> 
 <h1 align="center">Hi 👋, I'm Mezba</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
