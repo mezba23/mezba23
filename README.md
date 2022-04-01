@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mezba_u_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mezba_u_ahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mezba uddin ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezba uddin ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mezba23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezba uddin ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/mezba_u_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mezba_u_ahmed" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mezba23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mezba23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mezbauddinahmed0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mezbauddinahmed0" height="30" width="40" /></a>
